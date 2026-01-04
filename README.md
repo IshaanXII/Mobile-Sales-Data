@@ -20,7 +20,7 @@ Data Typing: Ensured correct data formats for Dates, Currencies, and Numerical v
 Custom Columns: Created calculated columns to categorize customer age groups (e.g., Gen Z, Millennials, etc.).
 Standardization: Cleaned city names and brand categories for uniform reporting.
 
-📊 Dashboard PreviewNote: images/dashboard.png
+📊 Dashboard PreviewNote: Mobile-Sales-Data/images/dashboard.png
  
  💡 Key Insights Derived
  
